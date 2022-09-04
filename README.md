@@ -13,12 +13,13 @@ Skills:
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/nikhiljainlive) 
 [<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/nikhiljainlive)  [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/nikhiljainlive/)  
 
+<!--
 ![Profile views](https://gpvc.arturio.dev/nikhiljainlive)  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nikhiljainlive&column=7"/>
 </a>
-
+-->
 ---
 
 <div>
