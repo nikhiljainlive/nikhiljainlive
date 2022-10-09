@@ -2,12 +2,11 @@
 
 Skills:
 
-<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white' height='40'/>
-<img src='https://img.shields.io/badge/swift-%23FE5000.svg?&style=for-the-badge&logo=swift&logoColor=white' height='40'/>
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/java-ED1D25.svg?&style=for-the-badge&logo=openjdk&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/swift-%23FE5000.svg?&style=for-the-badge&logo=swift&logoColor=white' height='40'/>
 
-- 🔭 I’m currently working on Android/Kotlin and iOS/Swift
+- 🔭 I’m currently working on Android/Kotlin/Java and iOS/Swift
 - 👯 I’m looking to collaborate on Android projects and iOS Projects
-- 💬 Ask me about Android/Kotlin and iOS/Swift
+- 💬 Ask me about Android/Kotlin/Java and iOS/Swift
 <br />
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/nikhiljainlive) 
