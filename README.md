@@ -11,7 +11,7 @@ Skills:
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/nikhiljainlive) 
 [<img src='https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white' height='40'>](https://stackoverflow.com/users/11366574/nikhil-jain)
-[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/nikhiljainlive/)
+[<img src='https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white' height='40'>](https://www.linkedin.com/in/nikhiljainlive/)
 <!---[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/nikhiljainlive) ---> 
 <!--
 ![Profile views](https://gpvc.arturio.dev/nikhiljainlive)  
