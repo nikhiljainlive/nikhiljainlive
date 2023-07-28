@@ -1,14 +1,17 @@
 ### Hi there 👋, I am Nikhil!
 
-Skills:
-
-<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/java-ED1D25.svg?&style=for-the-badge&logo=openjdk&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/swift-%23FE5000.svg?&style=for-the-badge&logo=swift&logoColor=white' height='40'/>
-
 - 🔭 I’m currently working on Android/Kotlin/Java and iOS/Swift
 - 👯 I’m looking to collaborate on Android projects and iOS Projects
 - 💬 Ask me about Android/Kotlin/Java and iOS/Swift
-<br />
 
+
+**Skills:**
+
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/java-ED1D25.svg?&style=for-the-badge&logo=openjdk&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/swift-%23FE5000.svg?&style=for-the-badge&logo=swift&logoColor=white' height='40'/>
+
+**Connect with me:**
+
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40'>](mailto:nikhiljain5195@gmail.com)
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/nikhiljainlive) 
 [<img src='https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white' height='40'>](https://stackoverflow.com/users/11366574/nikhil-jain)
 [<img src='https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white' height='40'>](https://www.linkedin.com/in/nikhiljainlive/)
